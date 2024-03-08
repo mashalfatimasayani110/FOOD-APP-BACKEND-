@@ -1,0 +1,59 @@
+{
+    "products": [
+        {
+            "id":121,
+            "name":"Orange",
+            "price":"150",
+            "image":"https://cdn.britannica.com/24/174524-050-A851D3F2/Oranges.jpg"
+        },
+        {
+            "id":122,
+            "name":"Banana",
+            "price":"100",
+            "image":"https://www.shutterstock.com/image-photo/bunch-bananas-isolated-on-white-600nw-1722111529.jpg"
+        },
+        {
+            "id":123,
+            "name":"Mango",
+            "price":"200",
+            "image":"./assets/3.jpg"
+        },
+        {
+            "id":124,
+            "name":"Strawberry",
+            "price":"450",
+            "image":"https://hips.hearstapps.com/countryliving/assets/15/22/1432664914-strawberry-facts1.jpg"
+        },
+        {
+            "id":125,
+            "name":"Cherry",
+            "price":"350",
+            "image" :"https://media.istockphoto.com/id/612524020/photo/fresh-ripe-black-cherries-background-top-view-close-up.webp?b=1&s=612x612&w=0&k=20&c=aLjv58VU5rqECynAr9-b5YHm2cLsZ1Jo62p-1l22PMQ="
+        },
+        {
+            "id":16,
+            "name":"Pineapple",
+            "price":"450",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV20TGkAd2MwoLhxkYLUupPjhLR60sBcpuwED2u8zlaMHGQeaB-j54cbWXSQbnOdwdZCw&usqp=CAU"
+        },
+        {
+            "id":127,
+            "name":"Apple",
+            "price":"250",
+            "image": "https://5.imimg.com/data5/LM/DU/MY-22954806/apple-fruit-500x500.jpg"
+        },
+        {
+            "id":128,
+            "name":"Poemargrante",
+            "price":"250",
+            "image": "https://www.evolvingtable.com/wp-content/uploads/2022/08/How-to-Cut-Pomegranate-23-500x500.jpg"
+        },
+        {
+            "id":129,
+            "name":"Grapes",
+            "price":"250",
+            "image":"https://images.everydayhealth.com/images/diet-nutrition/all-about-grapes-722x406.jpg"
+        }
+
+    ]
+}
